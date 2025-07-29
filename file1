@@ -4,6 +4,13 @@ hello world
 
 Modified
 
+<<<<<<< HEAD
 Modification done from branch1
 
 about to do rese cmd
+=======
+A modification done today
+>>>>>>> 6247fe3c129e856d2f06f4d03a722515ae2a478a
+
+
+=currently doing reset 
